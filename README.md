@@ -3,5 +3,6 @@
 ## Lista de Colaboradores
 
 - juan jose gonzalez rosales
+- sebastian buitragp :)
 
 
